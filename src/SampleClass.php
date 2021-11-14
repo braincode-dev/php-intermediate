@@ -2,8 +2,8 @@
 
 namespace CodeCamp;
 
-use CodeCamp\TaskFirstOld\Node;
-use CodeCamp\TaskFirstOld\BinaryTree;
+use CodeCamp\module1\TaskFirstOld\Node;
+use CodeCamp\module1\TaskFirstOld\BinaryTree;
 
 class SampleClass
 {

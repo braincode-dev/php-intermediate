@@ -6,7 +6,7 @@
  * Time: 8:21 PM
  */
 
-namespace CodeCamp\TaskSecond;
+namespace CodeCamp\module1\TaskFirst;
 
 
 class Node
