@@ -7,7 +7,7 @@
  */
 
 use PHPUnit\Framework\TestCase;
-use CodeCamp\TaskFirst\BinaryTree;
+use CodeCamp\module1\TaskFirst\BinaryTree;
 
 
 class BinaryTreeFirstTest extends TestCase

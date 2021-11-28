@@ -7,7 +7,7 @@
  */
 
 use PHPUnit\Framework\TestCase;
-use CodeCamp\TaskThird\Stack;
+use CodeCamp\module1\TaskThird\Stack;
 
 class StackTest extends TestCase
 {

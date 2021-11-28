@@ -6,7 +6,7 @@
  * Time: 9:56 PM
  */
 
-namespace CodeCamp\TaskFirstOld;
+namespace CodeCamp\module1\TaskFirstOld;
 
 
 // Cпочатку я зрозумів не вірно суть завдання і постатив час на ось це....

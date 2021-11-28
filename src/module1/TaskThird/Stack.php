@@ -6,7 +6,7 @@
  * Time: 5:54 PM
  */
 
-namespace CodeCamp\TaskThird;
+namespace CodeCamp\module1\TaskThird;
 
 
 class Stack

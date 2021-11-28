@@ -2,11 +2,11 @@
 /**
  * Created by PhpStorm.
  * User: alexkizyma
- * Date: 11/1/21
- * Time: 8:21 PM
+ * Date: 10/31/21
+ * Time: 9:54 PM
  */
 
-namespace CodeCamp\TaskFirst;
+namespace CodeCamp\module1\TaskFirstOld;
 
 
 class Node

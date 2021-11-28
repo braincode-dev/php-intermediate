@@ -6,7 +6,7 @@
  * Time: 8:23 PM
  */
 
-namespace CodeCamp\TaskSecond;
+namespace CodeCamp\module1\TaskSecond;
 
 
 class BinaryTree
